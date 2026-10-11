@@ -1,4 +1,7 @@
 # SmarterGarageAPI
+This solution is provides a simulated SmartThings API to emulate a garage door service which provides garage status information and supports controls for garage activities as well as a state machine to simulate an actual garage door opening and closing activities and status changes.
+
+This API supports the SmarterGarage project here https://github.com/robertcastles/SmarterGarage
 
 ## Deterministic Android/DHU test fixture
 
